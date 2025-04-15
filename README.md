@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I’m a Frontend Developer with over 1 year of experience in building responsive and interactive web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **MongoDB**.
+I’m a Frontend Developer with over 2 years of experience in building responsive and interactive web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **MongoDB**.
 
 I’m passionate about clean UI, performance, and continuous learning. Open to new challenges and excited to grow in the world of web development.
 
